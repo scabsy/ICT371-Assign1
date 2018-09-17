@@ -1,0 +1,119 @@
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\Content\background.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\Content\bullet.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\Content\crosshair.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\Content\plant.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\Content\rock.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\Content\tree.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\Game1.exe
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\Game1.pdb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\obj\x86\Debug\Game1.exe
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\obj\x86\Debug\Game1.pdb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Labs\2\Game1\Game1\obj\x86\Debug\Shooter.csprojResolveAssemblyReference.cache
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\bullet.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\crosshair.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\obj\x86\Debug\Shooter.csprojResolveAssemblyReference.cache
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\bullet.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\crosshair.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\obj\x86\Debug\Shooter.csprojResolveAssemblyReference.cache
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\grass_close_05_D.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\sand_close_01_D.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\armour.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\armourPU.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\health.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\healthPU.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\missionMarker.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\person1.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\person2.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\person3.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\bgSound.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Content\scream.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Insanity.exe.manifest
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Insanity.application
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Insanity.exe
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\bin\Windows\x86\Debug\Insanity.pdb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\obj\x86\Debug\Insanity.exe.manifest
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\obj\x86\Debug\Insanity.application
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\obj\x86\Debug\Insanity.exe
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1 - Copy\Game1\obj\x86\Debug\Insanity.pdb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\obj\x86\Debug\Insanity.exe
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\obj\x86\Debug\Insanity.pdb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\armour.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\armourPU.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\bgSound.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\grass_close_05_D.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\health.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\healthPU.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\laser.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\missionMarker.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\person1.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\person2.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\person3.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\sand_close_01_D.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Content\scream.xnb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Insanity.exe.manifest
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Insanity.application
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Insanity.exe
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\bin\Windows\x86\Debug\Insanity.pdb
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\obj\x86\Debug\Insanity.exe.manifest
+D:\Documents\Uni\2017\Sem 1\ICT371 - Game Development\Assignments\1\Game1\Game1\obj\x86\Debug\Insanity.application

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/crosshair.png</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/bullet.png</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/grass_close_05_D.tga</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/sand_close_01_D.tga</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/armour.png</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/armourPU.png</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/health.png</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/healthPU.png</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/missionMarker.png</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/person1.png</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/person2.png</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/person3.png</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/bgSound.wav</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/laser.wav</File>
+    <File>D:/Documents/Uni/2017/Sem 1/ICT371 - Game Development/Assignments/1/Game1/Game1/Content/scream.wav</File>
+  </SourceFiles>
+</SourceFileCollection>
